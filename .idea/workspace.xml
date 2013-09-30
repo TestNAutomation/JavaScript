@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ed3234-0d23-46f5-bcf9-3af27724c17d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise1/script14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise1/script15.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercise1/index.html" afterPath="$PROJECT_DIR$/exercise1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,6 +82,15 @@
         <entry file="file://$PROJECT_DIR$/exercise1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="29" selection-start="154" selection-end="154" vertical-scroll-proportion="0.23529412">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script15.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise1/script15.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -409,11 +419,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercise1/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise1/script2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -482,6 +487,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise1/script14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise1/script15.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
