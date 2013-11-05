@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ed3234-0d23-46f5-bcf9-3af27724c17d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise3/chapter02/lesson0202.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise3/chapter02/styles/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise3/chapter02/lesson0203.html" />
     </list>
     <ignored path="JavaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,8 +77,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise3/chapter02/styles/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="11" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson0203.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise3/chapter02/lesson0203.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -238,8 +245,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exercise3/chapter02/styles" />
       <recent name="$PROJECT_DIR$/exercise3/chapter02" />
+      <recent name="$PROJECT_DIR$/exercise3/chapter02/styles" />
       <recent name="$PROJECT_DIR$/exercise3/chapter01" />
       <recent name="$PROJECT_DIR$/exercise2" />
       <recent name="$PROJECT_DIR$/exercise1" />
@@ -446,11 +453,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercise1/script10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise1/script11.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -532,6 +534,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise3/chapter02/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise3/chapter02/lesson0203.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
