@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57ed3234-0d23-46f5-bcf9-3af27724c17d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise3/chapter02/lesson0204.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="57ed3234-0d23-46f5-bcf9-3af27724c17d" name="Default" comment="" />
     <ignored path="JavaScript.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="57ed3234-0d23-46f5-bcf9-3af27724c17d" time="1383642149605" ignored="false" />
@@ -99,7 +96,7 @@
       <file leaf-file-name="lesson0204.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise3/chapter02/lesson0204.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="72" selection-start="254" selection-end="254" vertical-scroll-proportion="0.44198895">
+            <state line="12" column="65" selection-start="254" selection-end="254" vertical-scroll-proportion="0.44198895">
               <folding />
             </state>
           </provider>
@@ -554,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise3/chapter02/lesson0204.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="72" selection-start="254" selection-end="254" vertical-scroll-proportion="0.44198895">
+        <state line="12" column="65" selection-start="254" selection-end="254" vertical-scroll-proportion="0.44198895">
           <folding />
         </state>
       </provider>
