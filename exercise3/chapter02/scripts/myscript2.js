@@ -1,1 +1,0 @@
-document.write("<p>Hello from myscript2.js</p>");
