@@ -16,7 +16,7 @@ Xls_Reader.java
 *.iml
 *.ipr
 *.iws
-.idea/
+#.idea/
  
 ### Eclipse ###
 *.pydevproject
