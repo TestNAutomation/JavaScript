@@ -16,6 +16,7 @@ Xls_Reader.java
 *.iml
 *.ipr
 *.iws
+*.xml
 #.idea/
  
 ### Eclipse ###
